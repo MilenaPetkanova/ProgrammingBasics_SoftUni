@@ -1,0 +1,28 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+
+
+Integrated Development Environments:
+
+
+An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion.
+
+-> Maestro I is a product from Softlab Munich and was the world's first integrated development environment [1] 1975 for software. Maestro I was installed for 22,000 programmers worldwide.
+
+-> Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code. Sometimes people want to try the product without investing thousands of dollars first, so Microsoft has the Express editions for all of their products. It is ready useful for beginners, because when you start programming in Visual Studios IDE you will notice a suggestion box will appear when you start typing anything within the IDE, this is to notify the user what methods and functions are available. It also has Automatic code formatting, which spends time.
+
+-> Eclipse is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more. The languages mentioned above are not limited by Microsoft and anyone is free to develop plug-ins for different languages and to make the development environment easier to use. Also, the ability to use this on Linux is a great sway for many people who don’t like to be bound by Microsoft’s operating systems and like full control of their OS.
+
+-> NetBeans is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing NetBeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+
+-> Kate is exactly how the website describes it, a text editor. Not to be looked down upon as it does a lot more than a regular text edit can do and that is what makes this an indispensable product. 
+gedit is the official editor of the gnome desktop and comes installed once the system is setup. Very useful for the user that is casually editing code and not undertaking major projects. This would be a good companion to Netbeans or Eclipse.
+
+-> Komodo is a comprehensive IDE that supports all major programming languages, providing a single tool that meets your development needs across the spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools for the most functionality. This one is not free.  
+
+-> CodeRun: This broswer-based IDE works in Chrome, Firefox, Safari and even good old Internet Explorer. Like the more robust multi-language IDEs, CodeRun supports Visual Studio projects and .NET languages. Best of all, your code is sharable via hyperlinks; it's even got built-in social sharing tools, should you want to tweet your code.
+
+
+
